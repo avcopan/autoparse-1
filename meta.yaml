@@ -1,4 +1,4 @@
-# cmd: conda build . --python 2
+# cmd: conda build .
 package:
     name: autoparse
     version: "0.1.0"
